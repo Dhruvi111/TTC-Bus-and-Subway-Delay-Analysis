@@ -2,7 +2,7 @@
 
 This project analyzes TTC (Toronto Transit Commission)  bus and subway delay incidents for the year 2023. The analysis and insights are presented as a Power BI Dashboard and include dynamic charts and graphs to reveal trends and statistics of bus and subway delays. It consists of an overview page facilitating general information for both the transport modes, a Bus Delay Analysis Page, and a Subway Delay Analysis Page. The report provides an in-depth look at delay instances, average delay durations, and factors contributing to delays across various locations and times.
 
-# Project Demo: [Live Dashboard](https://app.powerbi.com/groups/me/reports/5fc8ab26-2291-45bf-be7f-4103e99784c1/ReportSection?experience=power-bi)
+## Project Demo: [Live Dashboard](https://app.powerbi.com/groups/me/reports/5fc8ab26-2291-45bf-be7f-4103e99784c1/ReportSection?experience=power-bi)
 
 # Dashboard Sections
 
