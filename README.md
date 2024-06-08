@@ -4,7 +4,7 @@ This project analyzes TTC (Toronto Transit Commission)  bus and subway delay inc
 
 ## Project Demo: [Live Dashboard](https://app.powerbi.com/groups/me/reports/5fc8ab26-2291-45bf-be7f-4103e99784c1/ReportSection?experience=power-bi)
 
-# Dashboard Sections
+## Dashboard Sections
 
 1. TTC Bus and Subway Delay Overview
 - Total Delay Instances in 2023: Displayed using data cards for buses and subways.
@@ -24,19 +24,19 @@ This project analyzes TTC (Toronto Transit Commission)  bus and subway delay inc
 - Number of Delays by Subway Line: Donut Chart displaying the percentage distribution of delays across different subway lines.
 - Average Subway Delay Duration by Line: Presents the average delay duration for each subway line as a pie chart.
 
-# Preview
+## Preview
 
 ![Screenshot 2024-06-08 093122](https://github.com/Dhruvi111/TTC-Bus-and-Subway-Delay-Analysis/assets/121675002/467d4193-0432-414e-bd4c-e1057f83b537)
 ![Screenshot 2024-06-08 093143](https://github.com/Dhruvi111/TTC-Bus-and-Subway-Delay-Analysis/assets/121675002/2f57d234-54b4-4c4f-9897-4bfd654c8a85)
 ![Screenshot 2024-06-08 093212](https://github.com/Dhruvi111/TTC-Bus-and-Subway-Delay-Analysis/assets/121675002/0fb2639d-67be-4d4a-9d65-00908739678a)
 
-# Data
+## Data
 
 ![Screenshot 2024-06-08 095010](https://github.com/Dhruvi111/TTC-Bus-and-Subway-Delay-Analysis/assets/121675002/ae610ce3-a942-48c0-8b30-991fb5997849)
 
-# Data Source
+## Data Source
 https://www.kaggle.com/datasets/karmansinghbains/ttc-delays-and-routes-2023
 
-# Contributions
+## Contributions
 Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request or open an issue.
 
