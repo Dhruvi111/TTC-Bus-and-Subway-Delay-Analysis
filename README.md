@@ -2,7 +2,9 @@
 
 This project analyzes TTC (Toronto Transit Commission)  bus and subway delay incidents for the year 2023. The analysis and insights are presented as a Power BI Dashboard and include dynamic charts and graphs to reveal trends and statistics of bus and subway delays. It consists of an overview page facilitating general information for both the transport modes, a Bus Delay Analysis Page, and a Subway Delay Analysis Page. The report provides an in-depth look at delay instances, average delay durations, and factors contributing to delays across various locations and times.
 
+
 ## Project Demo: [View the Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiZDM1NTE1YTUtODZjYi00M2U2LWJkNGEtOWU3M2QzNDU5YmJhIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9)
+
 
 ## Dashboard Sections
 
@@ -24,16 +26,22 @@ This project analyzes TTC (Toronto Transit Commission)  bus and subway delay inc
 - Number of Delays by Subway Line: Donut Chart displaying the percentage distribution of delays across different subway lines.
 - Average Subway Delay Duration by Line: Presents the average delay duration for each subway line as a pie chart.
 
+
 ## Preview
 
+![Screenshot 2024-06-09 132224](https://github.com/Dhruvi111/TTC-Bus-and-Subway-Delay-Analysis/assets/121675002/a81bed3a-aeba-4668-bf0b-272c3194658c)
+![Screenshot 2024-06-09 132451](https://github.com/Dhruvi111/TTC-Bus-and-Subway-Delay-Analysis/assets/121675002/ba7a2abe-6e07-4110-9485-7497430e5064)
+![Screenshot 2024-06-09 132613](https://github.com/Dhruvi111/TTC-Bus-and-Subway-Delay-Analysis/assets/121675002/cb552f22-9dd5-487c-86dd-8fa919733e58)
 
 
 ## Data
 
 ![Screenshot 2024-06-08 095010](https://github.com/Dhruvi111/TTC-Bus-and-Subway-Delay-Analysis/assets/121675002/ae610ce3-a942-48c0-8b30-991fb5997849)
 
+
 ## Data Source
 https://www.kaggle.com/datasets/karmansinghbains/ttc-delays-and-routes-2023
+
 
 ## Contributions
 Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request or open an issue.
