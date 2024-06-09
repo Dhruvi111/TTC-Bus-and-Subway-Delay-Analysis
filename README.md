@@ -2,7 +2,7 @@
 
 This project analyzes TTC (Toronto Transit Commission)  bus and subway delay incidents for the year 2023. The analysis and insights are presented as a Power BI Dashboard and include dynamic charts and graphs to reveal trends and statistics of bus and subway delays. It consists of an overview page facilitating general information for both the transport modes, a Bus Delay Analysis Page, and a Subway Delay Analysis Page. The report provides an in-depth look at delay instances, average delay durations, and factors contributing to delays across various locations and times.
 
-## Project Demo: [View the Interactive Report](https://app.powerbi.com/groups/me/reports/5fc8ab26-2291-45bf-be7f-4103e99784c1/ReportSection?experience=power-bi)
+## Project Demo: [View the Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiZDM1NTE1YTUtODZjYi00M2U2LWJkNGEtOWU3M2QzNDU5YmJhIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9)
 
 ## Dashboard Sections
 
@@ -26,9 +26,7 @@ This project analyzes TTC (Toronto Transit Commission)  bus and subway delay inc
 
 ## Preview
 
-![Screenshot 2024-06-08 093122](https://github.com/Dhruvi111/TTC-Bus-and-Subway-Delay-Analysis/assets/121675002/467d4193-0432-414e-bd4c-e1057f83b537)
-![Screenshot 2024-06-08 093143](https://github.com/Dhruvi111/TTC-Bus-and-Subway-Delay-Analysis/assets/121675002/2f57d234-54b4-4c4f-9897-4bfd654c8a85)
-![Screenshot 2024-06-08 093212](https://github.com/Dhruvi111/TTC-Bus-and-Subway-Delay-Analysis/assets/121675002/0fb2639d-67be-4d4a-9d65-00908739678a)
+
 
 ## Data
 
